@@ -1,0 +1,27 @@
+body{
+    background-color: #5F7161;
+}
+
+article {
+    width: 927px;
+    margin:118px auto;
+    background: #475448;
+    padding-left: 96px;
+    padding-top: 113px;
+    padding-bottom: 166px;
+    padding-right: 72px;
+    border-radius: 8px;    
+}
+
+h2{ 
+color: #FFFFFF;
+font-size: 48px;
+line-height: 41px;
+font-family: 'Playfair Display', serif;
+margin-bottom: 64px;
+}
+p{
+color: #FFFFFF;
+font-family: 'Montserrat', sans-serif;
+font-size: 24px;
+}
